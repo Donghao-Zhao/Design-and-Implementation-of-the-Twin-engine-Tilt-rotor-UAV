@@ -6,9 +6,9 @@ Design and Implementation of the Twin-engine Tilt-rotor UAV
 
 Project Description:
 
-Duration: Jul 2018 – May 2019
+  Duration: Jul 2018 – May 2019
 
-This is my undergraduate thesis.
+  This is my undergraduate thesis.
 
 Purpose:
 
