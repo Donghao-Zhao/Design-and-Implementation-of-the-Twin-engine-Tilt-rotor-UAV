@@ -1,6 +1,6 @@
 # Design-and-Implementation-of-the-Twin-engine-Tilt-rotor-UAV
 
-Sorry that annotation are in Chinese, I'll translate them as soon as possible.
+Sorry that annotations are in Chinese, I'll translate them as soon as possible.
 
 Design and Implementation of the Twin-engine Tilt-rotor UAV
 
